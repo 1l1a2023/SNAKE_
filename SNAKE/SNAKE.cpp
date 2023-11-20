@@ -3,7 +3,7 @@
 using namespace std;
 
 void gotoxy(int x, int y);
-
+int git;
 char map[] =
 "|-------------------|\n"
 "|                   |\n"
